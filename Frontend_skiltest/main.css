@@ -1,0 +1,274 @@
+
+/* Body  Text*/
+
+body {
+    /* margin: 0; */
+    font-family: 'sans-serif';
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Container Top */
+.containertop {
+    position: relative;
+    color: black;
+}
+
+.toplogo {
+    position: absolute;
+    height: 100px;
+    left: 125px;
+}
+
+.top-right {
+    position: absolute;
+    font-size: 25px;
+    left: 1120px;
+    top: 20px;
+    color: white;
+  }
+
+
+/* Container White */
+.containerwhite {
+    position: relative;
+    background-color: white;
+    height:100px;
+    width: 1920px;
+    margin: 0;
+}
+
+.mountains {
+    color:#414f6b;
+}
+.logo {
+    position: absolute;
+    height: 100px;
+    left: 110px;
+}
+
+.logotext {
+    position: absolute;
+    color:black;
+    font-size: 25px;
+    left: 225px;
+    padding-top: 7px;
+}
+
+.top-right2 {
+    position: absolute;
+    font-size: 25px;
+    color: black;
+    left: 1100px;
+    padding-top: 20px;
+}
+
+/* Container middle */
+
+.containermid {
+    margin: 0;
+    position: relative;
+    color:white;
+}
+
+.numberone {
+    color: grey;
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    font-size: 180px;
+}
+
+.historyone {
+    color:#414f6b;
+    position: absolute;
+    top: 160px;
+    left: 550px;
+    font-size: xx-large;
+
+}
+
+.historytext {
+    color:black;
+    position: absolute;
+    top: 250px;
+    left: 450px;
+}
+
+
+
+
+.mountain2 {
+    position: relative;
+    z-index: 0; 
+}
+
+.containerred {
+    background-color: #414f6b;
+    opacity: 90%;
+    position:relative; 
+    height: 300px;
+    /* margin-right: 100px; */
+    margin-top: -300px;
+    width:1920px; 
+}
+  
+.hiking1 {
+    height: 280px;
+    weight: 250px;
+    margin-left: 15%;
+    padding-top: 25px;
+}
+
+.hiking2 {
+
+    height: 280px;
+    weight: 250px;
+    margin-left: 4.5%;
+    padding-top: 25px;
+    position: absolute;
+}
+
+.hiking3 {
+    height: 280px;
+    weight: 250px;
+    margin-left: 29%;
+    padding-top: 25px;
+    position: absolute;
+}
+
+
+
+
+/* Container White 2 */
+.containergreen2 {
+    background-color: white;
+    position: relative;
+    height: 270px;
+    width:1920px;
+}
+
+.numbertext{
+    color: grey;
+    position: absolute;
+    font-size: 180px;
+    left: 275px;
+    top: 10px;
+}
+
+.climb {
+    color: #414f6b;
+    position: absolute;
+    font-size: 25px;
+    top: 140px;
+    left: 540px;
+}
+
+.description {
+    position: absolute;
+    top: 100px;
+    left:650px;
+    
+}
+
+
+
+/* Container Blue 1 */
+.containerblue {
+    background-color: rgba(63,78,107,255);
+    height: 50px;
+    width:1920px;
+}
+
+.mountainonetext {
+    position: absolute;
+    color:grey;
+    font-size: 25px;
+    padding-top:7px;
+    padding-bottom: 6px;
+    left: 250px;
+}
+
+.mountainonetext:hover {
+    background-color: grey;
+    cursor: pointer;
+    color:#414f6b;
+    text-decoration: underline;
+}
+
+.mountainonetext2 {
+    position: absolute;
+    color:grey;
+    font-size: 25px;
+    padding-top:7px;
+    padding-bottom: 6px;
+    left: 450px;
+}
+
+.mountainonetext2:hover {
+    background-color: grey;
+    cursor: pointer;
+    color: #414f6b;
+    text-decoration: underline;
+}
+
+
+
+/* Container White */
+.whitebox {
+    position: absolute;
+    background-color: white;
+    height: 350px;
+    width: 500px;
+    margin-top: 150px;
+    opacity: 90%;
+    left: 300px;
+}
+
+.schedule {
+    color: #414f6b;
+    position: absolute;
+    top: 20px;
+    left: 35px;
+    font-size: xx-large;
+}
+
+.scheduletext {
+    position: absolute;
+    font-size: x-large;
+    top: 85px;
+    left: 45px;
+}
+
+
+
+/* Container Blue 2 */
+.containerblue2 {
+    background-color: #414f6b;
+    height: 100px;
+    width:1920px;
+}
+
+.logoend {
+    height: 100px;
+    position: absolute;
+    left: 300px;
+}
+
+.logoendtext {
+    color: #63769d;
+    position: absolute;
+    left: 415px;
+    padding-top: 13px;
+    font-size: 25px;
+}
+
+.copyrights {
+    position: absolute;
+    left: 1100px;
+    padding-top: 30px;
+    font-size: large;
+    color: #63769d;
+}
